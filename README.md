@@ -1,2 +1,2 @@
 # Simon-Game-Challenge
-This game is developed uisng HTML,CSS and JS.
+This game is developed using HTML,CSS and JS.
